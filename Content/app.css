@@ -5,6 +5,7 @@
 .jumbotron {
     background-color: #111;
     margin-bottom: 0;
+    height: 100vh;
 }
 
 .jumbotron-images {
