@@ -2,21 +2,14 @@
 
 // IIFE (Immediately Invoked Function Expression)
 (function () {
-
-    console.log("App Started...");
-    
-    // declare an anonymous fucntion with named alias
+    // project one
     var replaceFirstProject = function () {
-        console.log("inside replaceFirstProject anonymous function");
-
         var firstProject;
         firstProject = document.getElementById("firstProject");
-        firstProject.innerHTML = "Hello, My name is Tara McNeil and this is my portfolio site. To about me check out my about page. To see some of my graphic design and web development work check out the projects page. If you like what you see here you click the contact button below or the contact page tab at the top to get in touch with me.";
+        firstProject.innerHTML = "This project was to name and create a dieline for snowboarding goggles for adult males. I went with a simple layout with a flat flue color for a calm feeling and triangle shapes to create the mountains.";
     };
     
+    // call the functions
+    replaceFirstProject();
     
-    // call the replacefirstProject function
-    replacefirstProject();
-
-
 })();
