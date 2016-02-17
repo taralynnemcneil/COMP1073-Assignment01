@@ -20,36 +20,31 @@
     // project one
     var replaceFirstProject = function () {
         var firstProject;
-        firstProject = document.getElementById("firstProject");
-        firstProject.innerHTML = "This project was to name and create a dieline for snowboarding goggles for adult males. I went with a simple layout with a flat flue color for a calm feeling and triangle shapes to create the mountains.";
+        firstProject = document.getElementById("firstProject").innerHTML = "This project was to name and create a dieline for snowboarding goggles for adult males. I went with a simple layout with a flat flue color for a calm feeling and triangle shapes to create the mountains.";
     };
     
     // project two
     var replaceSecondProject = function () {
         var secondProject;
-        secondProject = document.getElementById("secondProject");
-        secondProject.innerHTML = "Shawn Pankow is the mayor of Smiths Falls, ON., while I was working for PDG Media he asked for a header with his photo for a column in the Hometown News Paper.";
+        secondProject = document.getElementById("secondProject").innerHTML = "Shawn Pankow is the mayor of Smiths Falls, ON., while I was working for PDG Media he asked for a header with his photo for a column in the Hometown News Paper.";
     };
     
     // project three
     var replaceThirdProject = function () {
         var thirdProject;
-        thirdProject = document.getElementById("thirdProject");
-        thirdProject.innerHTML = "I was brought this project by two clients who wanted to split the cost of an ad by splitting one ad. So I had to split the ad in two but keep it looking as if it was one ad. The 'Z' makes your eyes flow from one side of the page to the other.";
+        thirdProject = document.getElementById("thirdProject").innerHTML = "I was brought this project by two clients who wanted to split the cost of an ad by splitting one ad. So I had to split the ad in two but keep it looking as if it was one ad. The 'Z' makes your eyes flow from one side of the page to the other.";
     };
     
     // project four
     var replaceFourthProject = function () {
         var fourthProject;
-        fourthProject = document.getElementById("fourthProject");
-        fourthProject.innerHTML = "Pretty much the same as the yoga ad, Coffee Culture wanted an ad that is split to promote 3 different things.";
+        fourthProject = document.getElementById("fourthProject").innerHTML = "Pretty much the same as the yoga ad, Coffee Culture wanted an ad that is split to promote 3 different things.";
     };
     
     // project five
     var replaceFifthProject = function () {
         var fifthProject;
-        fifthProject = document.getElementById("fifthProject");
-        fifthProject.innerHTML = "This was a website banner ad I had created for Coffee Culture for the PDG Media site and for the Hometown News website.";
+        fifthProject = document.getElementById("fifthProject").innerHTML = "This was a website banner ad I had created for Coffee Culture for the PDG Media site and for the Hometown News website.";
     };
     
     /* ---------------------------------- 
