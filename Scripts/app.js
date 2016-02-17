@@ -1,5 +1,5 @@
 // IIFE (Immediately Invoked Function Expression)
-(window.onload = function () {
+(function () {
     "use strict";
     /* ---------------------------------- 
              About Page
